@@ -5,6 +5,8 @@
 
 # 👋 Hey, I'm <span style="color:000000;">98741</span>
 
+[![CI](https://github.com/teremuhamblin/98731/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/98731/actions/workflows/blank.yml)
+
 Développeur d’ingénierie avancée, architecte de systèmes cyber-physiques, créateur de moteurs modulaires et explorateur des environnements tactiques.
 
 Je construis des systèmes :
