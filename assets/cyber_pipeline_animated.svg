@@ -13,7 +13,7 @@
   <rect width="260" height="48" rx="6" fill="#0A0A0A"/>
   <rect width="160" height="48" rx="6" fill="url(#stream)"/>
 
-  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">CYBER PIPELINE</text>
+  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">PIPELINE</text>
   <text x="190" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">OPS</text>
 
 </svg>
