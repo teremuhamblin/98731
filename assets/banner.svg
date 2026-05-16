@@ -24,7 +24,7 @@
   <!-- Titre -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="Consolas, monospace" font-size="48" fill="#ff0033">
-    98731 — CYBER OPS
+    98731 — Redhat 
     <animate attributeName="opacity" values="1;0.7;1" dur="2s" repeatCount="indefinite"/>
   </text>
 
