@@ -17,7 +17,7 @@
   <rect width="150" height="48" rx="6" fill="#ff0033"/>
 
   <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF" filter="url(#glitch)">
-    REDHAT OPS
+    The MadDoG 
     <animate attributeName="opacity" values="1;0.6;1" dur="1.2s" repeatCount="indefinite"/>
   </text>
 
