@@ -1,63 +1,30 @@
 <svg width="260" height="48" viewBox="0 0 260 48" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-
-    <!-- Gradient animé -->
-    <linearGradient id="cyberGrad" x1="0%" y1="0%" x2="200%" y2="0%">
+    <linearGradient id="aetherGrad" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#0044ff"/>
       <stop offset="50%" stop-color="#ff0033"/>
       <stop offset="100%" stop-color="#0044ff"/>
       <animate attributeName="x1" values="0%;100%" dur="3s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="100%;200%" dur="3s" repeatCount="indefinite"/>
     </linearGradient>
-
-    <!-- Glow rouge -->
-    <filter id="cyberGlow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Scanlines -->
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="2" fill="rgba(255,0,0,0.12)"/>
-    </pattern>
-
-    <!-- Glitch -->
-    <filter id="glitch">
-      <feOffset in="SourceGraphic" dx="2" dy="0" result="r"/>
-      <feOffset in="SourceGraphic" dx="-2" dy="0" result="b"/>
-      <feBlend in="r" in2="b" mode="screen"/>
-    </filter>
-
   </defs>
 
-  <!-- Fond global -->
-  <rect width="260" height="48" rx="6" fill="#050505"/>
-
-  <!-- Bloc gauche animé -->
-  <rect width="160" height="48" rx="6" fill="url(#cyberGrad)" filter="url(#cyberGlow)">
-    <animate attributeName="opacity" values="0.85;1;0.85" dur="2s" repeatCount="indefinite"/>
+  <rect width="260" height="48" rx="6" fill="#0A0A0A"/>
+  <rect width="160" height="48" rx="6" fill="url(#aetherGrad)">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Scanlines globales -->
-  <rect width="260" height="48" fill="url(#scan)"/>
-
-  <!-- Texte centré : 98731 -->
+  <!-- Texte centré dans le bloc gauche (160px) -->
   <text x="80" y="30" text-anchor="middle"
-        font-family="Consolas, monospace" font-size="18" fill="#FFFFFF"
-        filter="url(#glitch)">
+        font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">
     98731
-    <animate attributeName="opacity" values="1;0.7;1" dur="1.8s" repeatCount="indefinite"/>
   </text>
 
-  <!-- Texte centré : ENGINE -->
+  <!-- Texte centré dans le bloc droit (100px) -->
   <text x="210" y="30" text-anchor="middle"
         font-family="Consolas, monospace" font-size="16" fill="#ff0033">
     ENGINE
-    <animate attributeName="opacity" values="1;0.6;1" dur="2.2s" repeatCount="indefinite"/>
   </text>
 
 </svg>
