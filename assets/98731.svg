@@ -15,13 +15,15 @@
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Texte centré -->
+  <!-- Texte centré dans le bloc gauche (160px) -->
   <text x="80" y="30" text-anchor="middle"
         font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">
     98731
   </text>
 
-  <text x="180" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">
+  <!-- Texte centré dans le bloc droit (100px) -->
+  <text x="210" y="30" text-anchor="middle"
+        font-family="Consolas, monospace" font-size="16" fill="#ff0033">
     ENGINE
   </text>
 
