@@ -1,5 +1,5 @@
 <!-- Cyber Banner (98731) -->
-<p align="center">
+<p align="left">
   <img src="assets/98731.svg" height="220" alt="98731">
 </p>
 
