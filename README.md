@@ -3,12 +3,21 @@
   <img src="assets/98731.svg" height="220" alt="98731">
 </p>
 
-# 👋 Hey, I'm <span style="color:#ff0033;">98741</span>
+# 👋 Hey, I'm <span style="color:000000;">98741</span>
 
-Développeur d’ingénierie avancée, architecte de systèmes cyber‑physiques, créateur de moteurs modulaires et explorateur des environnements cloud tactiques.
+Développeur d’ingénierie avancée, architecte de systèmes cyber-physiques, créateur de moteurs modulaires et explorateur des environnements tactiques.
 
-Je construis des systèmes **robustes**, **scalables**, **automatisés**, et profondément **techniques**.  
-Mon univers : Python, architectures modulaires, systèmes embarqués, CI/CD, devcontainers, bots GitHub, et environnements cyber‑opérationnels.
+Je construis des systèmes :
+> **robustes**, **scalables**, **automatisés**, 
+et profondément **techniques**.  
+- Mon univers :
+```md
+> En Python,Bash, et AUTRES ...
+> Architectures modulaires,
+> Systèmes embarqués et CI/CD,
+- Par devcontainers et bots GitHub,
+- Environnements tactiques opérationnels
+```
 
 ---
 
