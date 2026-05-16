@@ -1,0 +1,21 @@
+<svg width="260" height="48" viewBox="0 0 260 48" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="aetherGrad" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#0044ff"/>
+      <stop offset="50%" stop-color="#ff0033"/>
+      <stop offset="100%" stop-color="#0044ff"/>
+      <animate attributeName="x1" values="0%;100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="260" height="48" rx="6" fill="#0A0A0A"/>
+  <rect width="160" height="48" rx="6" fill="url(#aetherGrad)">
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">AETHER‑CORE</text>
+  <text x="180" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">ENGINE</text>
+
+</svg>
