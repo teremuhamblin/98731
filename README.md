@@ -1,6 +1,6 @@
 <!-- Cyber Banner (98731) -->
 <p align="center">
-  <img src="assets/badges/98731.svg" height="220" alt="98731">
+  <img src="assets/98731.svg" height="220" alt="98731">
 </p>
 
 # 👋 Hey, I'm <span style="color:#ff0033;">98741</span>
