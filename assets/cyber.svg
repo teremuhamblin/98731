@@ -30,7 +30,7 @@
   <rect width="140" height="48" rx="6" fill="url(#ynforGrad)" filter="url(#cyberGlow)"/>
   <rect width="240" height="48" fill="url(#scan)"/>
 
-  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">YNFOR</text>
-  <text x="160" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">CYBER</text>
+  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">YnFOR</text>
+  <text x="160" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">Market</text>
 
 </svg>
