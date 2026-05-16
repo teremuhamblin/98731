@@ -1,0 +1,19 @@
+<svg width="260" height="48" viewBox="0 0 260 48" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="stream" x1="-100%" y1="0" x2="200%" y2="0">
+      <stop offset="0%" stop-color="#ff0033"/>
+      <stop offset="50%" stop-color="#660000"/>
+      <stop offset="100%" stop-color="#ff0033"/>
+      <animate attributeName="x1" values="-100%;100%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="260" height="48" rx="6" fill="#0A0A0A"/>
+  <rect width="160" height="48" rx="6" fill="url(#stream)"/>
+
+  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">CYBER PIPELINE</text>
+  <text x="190" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">OPS</text>
+
+</svg>
