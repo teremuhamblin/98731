@@ -6,42 +6,32 @@
 <span style="font-family:Consolas, Monaco,'Courier New',monospace;font-weight:900;font-size:48px;letter-spacing:4px;color:#000000;text-shadow:0 0 6px #ff0000,0 0 12px #ff0000,0 0 18px #ff0033;display:inline-block;filter:drop-shadow(0 0 4px #ff0000);">X X X X X</span>
 
 [![CI](https://github.com/teremuhamblin/98731/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/98731/actions/workflows/blank.yml)
-- Développeur d’ingénierie avancée, architecte de systèmes cyber-physiques, créateur de moteurs modulaires et explorateur des environnements tactiques.
 
-Je construis des systèmes :
+- Développeur d’ingénierie avancée, architecte de systèmes cyber-physiques, créateur de moteurs modulaires et explorateur des environnements tactiques.
+>Je construis des systèmes :
 ```md
 - **robustes**,
 - **scalables**,
 - **automatisés**, 
->> et profondément
 - **techniques**
 ```
 - Mon univers :
 ```md
-> En Python,Bash, et AUTRES ...
-> Architectures modulaires,
-> Systèmes embarqués et CI/CD,
-- Par devcontainers et bots GitHub,
+> En Python,Bash, et AUTRES
+> Architectures modulaires
+> Systèmes embarqués et CI/CD
+- Par devcontainers et bots GitHub
 - Environnements tactiques opérationnels
 ```
 
 ---
 
-## 🛡️ Cyber Badges (Animated SVG) — *Proposition A*
-
+### 🛡️ Cyber Badges
+> Animated SVG
 <p align="center">
-<img src="assets/badge/cyber.svg" height="48" alt="Cyber">
-
-  <!-- Badge 2 : AETHER‑CORE -->
-  <img src="assets/badges/core.svg" height="48" alt="Core">
-
-  <!-- Badge 3 : RedHat Hacker Ops -->
-  <img src="assets/badges/redhat_hacker_ops_animated.svg" height="48" alt="RedHat Hacker Ops">
-
-  <!-- Badge 4 : Cyber Pipeline -->
-  <img src="assets/badges/cyber_pipeline_animated.svg" height="48" alt="Cyber Pipeline">
-
+<img src="assets/badge/cyber.svg" height="28" alt="Cyber">
 </p>
+<!-- Badge 1 : AETHER‑CORE -->
 
 > Badges SVG animés (SMIL + CSS inline), style **cyber‑physique**, ambiance **RedHat hacker**, optimisés pour GitHub.  
 > Je peux t’en générer autant que tu veux.
