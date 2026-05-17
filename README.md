@@ -2,15 +2,20 @@
   <img src="assets/98731.svg" height="220" alt="98731">
 </p>
 
-# 👋 Hey, I'm <span style="color:000000;">98741</span>
+# 👋 Hey, I'm
+<span style="font-family:Consolas, Monaco,'Courier New',monospace;font-weight:900;font-size:48px;letter-spacing:4px;color:#000000;text-shadow:0 0 6px #ff0000,0 0 12px #ff0000,0 0 18px #ff0033;display:inline-block;filter:drop-shadow(0 0 4px #ff0000);">X X X X X</span>
 
 [![CI](https://github.com/teremuhamblin/98731/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/98731/actions/workflows/blank.yml)
-
-Développeur d’ingénierie avancée, architecte de systèmes cyber-physiques, créateur de moteurs modulaires et explorateur des environnements tactiques.
+- Développeur d’ingénierie avancée, architecte de systèmes cyber-physiques, créateur de moteurs modulaires et explorateur des environnements tactiques.
 
 Je construis des systèmes :
-> **robustes**, **scalables**, **automatisés**, 
-et profondément **techniques**.  
+```md
+- **robustes**,
+- **scalables**,
+- **automatisés**, 
+>> et profondément
+- **techniques**
+```
 - Mon univers :
 ```md
 > En Python,Bash, et AUTRES ...
@@ -22,15 +27,13 @@ et profondément **techniques**.
 
 ---
 
-## 🛡️ Cyber‑Badges (Animated SVG) — *Proposition A*
+## 🛡️ Cyber Badges (Animated SVG) — *Proposition A*
 
 <p align="center">
-
-  <!-- Badge 1 : YnFOR Cyber -->
-  <img src="assets/badges/ynfor_cyber_animated.svg" height="48" alt="YnFOR Cyber Badge">
+<img src="assets/badge/cyber.svg" height="48" alt="Cyber">
 
   <!-- Badge 2 : AETHER‑CORE -->
-  <img src="assets/badges/aether_core_animated.svg" height="48" alt="AETHER Core Badge">
+  <img src="assets/badges/core.svg" height="48" alt="Core">
 
   <!-- Badge 3 : RedHat Hacker Ops -->
   <img src="assets/badges/redhat_hacker_ops_animated.svg" height="48" alt="RedHat Hacker Ops">
