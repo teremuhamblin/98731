@@ -1,0 +1,33 @@
+name: 🤖 Support Bot
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  support-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Réponse automatique
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const body = `
+Merci pour ton message 🚀  
+L’équipe **98731 Quantum Era** va analyser ta demande.
+
+📌 Avant cela, pense à vérifier :
+- La documentation
+- Les issues existantes
+- Les logs
+- La version utilisée
+
+Nous revenons vers toi rapidement.  
+            `;
+            github.rest.issues.createComment({
+              issue_number: issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body
+            });
