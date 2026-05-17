@@ -1,4 +1,9 @@
-###### README.md >> markdown 
+###### README.md >> markdown
+
+<p align="left">
+  <img src="https://github.com/teremuhamblin/98731/actions/workflows/blank.yml/badge.svg" alt="CI Status">
+</p>
+
 # 🟦 p f 31
 <p align="center">
 **Version Quantum Era**
@@ -26,11 +31,7 @@
 >SVG animés
 
 <p align="left">
-  <img src="assets/bot.svg" height="100" alt="Cyber Bot">
-</p>
-
-<p align="center">
-  <img src="https://github.com/teremuhamblin/98731/actions/workflows/blank.yml/badge.svg" alt="CI Status">
+  <img src="assets/cyber.svg" height="100" alt="Cyber Bot">
 </p>
 
 ```md
@@ -52,21 +53,19 @@
 - techniques
 ```
 
-Mon univers :
-
-`md
+>Mon univers :
+```md
 > Python, Bash, architectures modulaires  
 > Systèmes embarqués & ECU  
 > CI/CD & GitHub Actions  
 > Devcontainers & Codespaces  
 > Bots GitHub & automatisation  
 > Environnements tactiques opérationnels  
-`
+```
 
 ---
 
-⚙️ Fonctionnalités clés
-
+### ⚙️ Fonctionnalités clés
 - 🛰️ Architectures modulaires multi‑systèmes  
 - 🧩 Pipelines d’ingénierie avancés  
 - 🛡️ Systèmes cyber‑physiques simulés  
@@ -78,22 +77,20 @@ Mon univers :
 
 ---
 
-🧠 Ce que je construis
-
-`md
+### 🧠 Ce que je construis
+```md
 - YnFOR — moteur modulaire nouvelle génération  
 - 98731 — architecture d’ingénierie optimisée pour Codespaces  
 - VLX‑16S — simulateur tactique embarqué  
 - OmniverseCORE — framework multi‑systèmes Quantum Era  
 - YnFOR-Bot — automatisation intelligente GitHub  
 - Badges SVG animés — cyber‑ops / RedHat hacker  
-`
+```
 
 ---
 
-🧰 Technologies
-
-`bash
+##$ 🧰 Technologies
+```bash
 Python 3.12+
 GitHub Actions / CI/CD
 Devcontainers / Codespaces
@@ -102,14 +99,12 @@ Systèmes embarqués & ECU
 HTML / CSS / SVG animés
 Bots GitHub
 Sécurité & cyber‑ingénierie
-`
+```
 
 ---
 
-🧬 Architecture (ASCII)
-
-`
-                ┌──────────────────────────────┐
+### 🧬 Architecture (ASCII)
+```schema                ┌──────────────────────────────┐
                 │        Quantum Era v6.0       │
                 └──────────────┬───────────────┘
                                │
@@ -122,27 +117,24 @@ Sécurité & cyber‑ingénierie
    └────┬─────┘                                   └────┬─────┘
         │                                             │
    [ CI/CD ]                                     [ Bots GitHub ]
-`
+```
 
 ---
 
-⚡ Installation & Quickstart
-
-Devcontainer
-`bash
+### ⚡ Installation & Quickstart
+>Devcontainer
+```bash
 gh codespace create -r teremuhamblin/98731
-`
-
-Local
-`bash
+```
+>Local
+```bash
 git clone https://github.com/teremuhamblin/98731
 cd 98731
-`
+```
 
 ---
 
-🔄 CI/CD & Automations
-
+### 🔄 CI/CD & Automations
 - Builds automatisés  
 - Tests intégrés  
 - Release pipelines  
@@ -152,33 +144,33 @@ cd 98731
 
 ---
 
-🗺️ Roadmap Quantum Era (v1.0 → v6.0)
-
-`md
+### 🗺️ Roadmap 
+>Quantum Era
+- (v1.0 → v6.0)
+```md
 - [x] v1.0 — Base Engine  
 - [x] v2.0 — Modular Core  
 - [x] v3.0 — CI/CD Full  
 - [x] v4.0 — Cyber‑Ops Layer  
 - [x] v5.0 — RedHat Hacker Mode  
 - [x] v6.0 — Quantum Era Release  
-`
+```
 
 ---
 
-📜 Changelog résumé
-
-`md
+### 📜 Changelog
+>résumé
+```md
 v6.0 — Quantum Era  
 - Nouveau moteur modulaire  
 - Badges SVG animés  
 - Architecture cyber‑physique  
 - Pipelines CI/CD renforcés  
-`
+```
 
 ---
 
-📚 Documentation
-
+### 📚 Documentation
 - Wiki GitHub  
 - GitHub Pages  
 - Glossaire technique  
@@ -186,14 +178,13 @@ v6.0 — Quantum Era
 
 ---
 
-📄 Licence
-
+### 📄 Licence
 The Unlicence
-> — libre, propre, professionnelle.
+>Libre, propre, professionnelle.
 
 ---
 
-✨ Footer
+### ✨ Footer
 
 <p align="center">
   <sub>Maintenu avec passion — et parfois par mes bots autonomes.</sub>
