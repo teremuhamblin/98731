@@ -1,5 +1,5 @@
 ###### README.md >> markdown 
-# 🟦 9 8 7 3 1
+# 🟦 p f 31
 <p align="center">
 **Version Quantum Era**
 </p>
@@ -16,14 +16,16 @@
 
 <p align="center">
   <strong>Cyber‑Physical Modular Architect • Quantum Era Engineer • RedHat‑Ops Developer</strong><br/>
-  Créateur de moteurs modulaires, systèmes tactiques, pipelines CI/CD et environnements Codespaces avancés.
 </p>
+
+###### Créateur de moteurs modulaires, systèmes tactiques, pipelines CI/CD et environnements Codespaces avancés.
 
 ---
 
-🛡️ Badges Cyber‑Physiques (SVG animés)
+### 🛡️ Badges Cyber‑Physiques
+>SVG animés
 
-<p align="center">
+<p align="left">
   <img src="assets/bot.svg" height="100" alt="Cyber Bot">
 </p>
 
@@ -31,25 +33,24 @@
   <img src="https://github.com/teremuhamblin/98731/actions/workflows/blank.yml/badge.svg" alt="CI Status">
 </p>
 
-`md
+```md
 > Badges SVG premium, animés (SMIL + CSS inline), style Quantum‑Era / RedHat hacker.  
 > Optimisés pour GitHub, compatibles Markdown pur.
-`
+```
 
 ---
 
-🚀 Qui je suis
-
-Développeur d’ingénierie avancée, architecte cyber‑physique, créateur de moteurs modulaires et explorateur des environnements tactiques.
-
-Je construis des systèmes :
-
-`md
+### 🚀 Qui je suis
+- Développeur d’ingénierie avancée
+- architecte cyber-physique
+- Créateur de moteurs modulaires et explorateur des environnements tactiques
+>Je construis des systèmes :
+```md
 - robustes
 - scalables
 - automatisés
 - techniques
-`
+```
 
 Mon univers :
 
