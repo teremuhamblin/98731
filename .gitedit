@@ -1,0 +1,27 @@
+# ============================
+#   Template de commit 98731
+# ============================
+
+# Format recommandé :
+# type(scope): résumé court
+#
+# Types : feat, fix, docs, style, refactor, perf, test, chore, ci, build
+# Exemple :
+# feat(engine): add async event hook
+
+type(scope): résumé court du commit
+
+# Description détaillée :
+# - Pourquoi ce changement ?
+# - Quel problème résout-il ?
+# - Impacts sur ENGINE / CORE / OPS ?
+# - Limitations éventuelles ?
+
+# BREAKING CHANGE:
+# Décrire ici les changements majeurs et instructions de migration.
+
+# Issues fermées :
+# Closes #123
+
+# Co-auteurs :
+# Co-authored-by: Nom <email@example.com>
