@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/<user>/98731/discussions
+    about: Pose tes questions ici.
+  - name: 🛡️ Security
+    url: https://github.com/<user>/98731/security
+    about: Signale une vulnérabilité de manière responsable.
