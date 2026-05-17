@@ -26,11 +26,35 @@
     </pattern>
   </defs>
 
+  <!-- Fond global -->
   <rect width="240" height="48" rx="6" fill="#0A0A0A"/>
+
+  <!-- Bloc gauche animé -->
   <rect width="140" height="48" rx="6" fill="url(#ynforGrad)" filter="url(#cyberGlow)"/>
+
+  <!-- Scanlines -->
   <rect width="240" height="48" fill="url(#scan)"/>
 
-  <text x="16" y="30" font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">YnFOR</text>
-  <text x="160" y="30" font-family="Consolas, monospace" font-size="16" fill="#ff0033">Market</text>
+  <!-- Texte YnFOR centré (140px → centre = 70) -->
+  <text x="70" y="30" text-anchor="middle"
+        font-family="Consolas, monospace"
+        font-size="20"
+        font-weight="bold"
+        fill="#FFFFFF"
+        stroke="#b300ff"
+        stroke-width="1.4">
+    YnFOR
+  </text>
+
+  <!-- Texte Market centré (100px → centre = 190) -->
+  <text x="190" y="30" text-anchor="middle"
+        font-family="Consolas, monospace"
+        font-size="18"
+        font-weight="bold"
+        fill="#ff0033"
+        stroke="#b300ff"
+        stroke-width="1.2">
+    Market
+  </text>
 
 </svg>
