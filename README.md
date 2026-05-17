@@ -29,9 +29,9 @@
 ### 🛡️ Cyber Badges
 > Animated SVG
 
-<!-- Badge 1 : AETHER‑CORE -->
+<!-- Badge 1 : (Cyber) -->
 <p align="center">
-<img src="assets/cyber.svg" height="28" alt="Cyber">
+<img src="assets/bot.svg" height="100" alt="Cyber">
 </p>
 
 ```md
@@ -41,21 +41,21 @@
 
 ---
 
-## 🚀 What I build
-
+### 🚀 What I build
+```md
 - **YnFOR** — moteur modulaire nouvelle génération  
-- **AETHER‑CORE** — architecture d’ingénierie optimisée pour Codespaces  
-- **VLX‑16S ECU Simulator** — simulateur tactique embarqué  
+- **98731** — architecture d’ingénierie optimisée pour Codespaces  
+- **VLX‑16S** — simulateur tactique embarqué  
 - **OmniverseCORE** — framework multi‑systèmes  
-- **YnFOR Bot** — automatisation intelligente pour GitHub  
+- **YnFOR-Bot** — automatisation intelligente pour GitHub  
 - **Badges SVG animés** — style cyber‑ops / RedHat hacker  
-
-Je crée aussi des systèmes de plugins, des pipelines d’ingénierie et des environnements de développement avancés.
+```
+- Je crée aussi des systèmes de plugins, des pipelines d’ingénierie et des environnements de développement avancés.
 
 ---
 
-## 🧰 Technologies I use
-
+### 🧰 Technologies I use
+```bash
 - Python (3.12+)  
 - GitHub Actions & CI/CD  
 - Devcontainers / Codespaces  
@@ -65,13 +65,13 @@ Je crée aussi des systèmes de plugins, des pipelines d’ingénierie et des en
 - HTML / CSS / SVG animés  
 - Automatisation & bots GitHub  
 - Sécurité & cyber‑ingénierie  
+```
 
 ---
 
-## 🦾 Cyber‑Engineering
-
-Je développe et maintiens :
-
+### 🦾 Cyber‑Engineering
+- Je développe et maintiens :
+```text
 - moteurs logiciels  
 - systèmes de plugins  
 - outils d’ingénierie  
@@ -79,27 +79,26 @@ Je développe et maintiens :
 - environnements Codespaces complets  
 - badges SVG animés Quantum‑Era  
 - systèmes cyber‑physiques simulés  
+```
 
 ---
 
-## 📈 Stats & Activity
-
-*(Tu peux ajouter ici des badges GitHub Stats si tu veux.)*
+### 📈 Stats & Activity
+> *(Tu peux ajouter ici des badges GitHub Stats si tu veux.)*
 
 ---
 
-## 👓 Appendix
-
-Voici ce qui arrive bientôt :
-
+### 👓 Appendix
+> Voici ce qui arrive bientôt :
+```text
 - YnFOR v9.0  
 - Nouveaux modules Quantum‑Era  
 - Documentation interactive  
 - Nouveaux workflows CI/CD  
 - Amélioration du bot YnFOR  
 - Pack complet de badges animés cyber‑physiques  
-
-Tu as une idée ou une suggestion ?  
+```
+- Tu as une idée ou une suggestion ?  
 Ouvre une issue, j’adore les retours techniques.
 
 ---
@@ -119,11 +118,13 @@ Ouvre une issue, j’adore les retours techniques.
   - Bots GitHub personnalisés  
   - Systèmes cyber‑physiques simulés  
 
-  ### 📚 Documentation
-  Toute ma documentation est ouverte, versionnée et évolutive.
+### 📚 Documentation
+> Toute ma documentation est ouverte, versionnée et évolutive.
 
 </details>
 
 ---
 
+```md
 <sub>✨ Ce profil est généré et maintenu avec passion — et parfois par mes bots.</sub>
+```
