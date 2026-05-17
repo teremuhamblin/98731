@@ -10,18 +10,21 @@
     </linearGradient>
   </defs>
 
+  <!-- Fond global -->
   <rect width="260" height="48" rx="6" fill="#0A0A0A"/>
+
+  <!-- Bloc gauche animé -->
   <rect width="160" height="48" rx="6" fill="url(#aetherGrad)">
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Texte centré dans le bloc gauche (160px) -->
+  <!-- Texte centré dans le bloc gauche (160px → centre = 80) -->
   <text x="80" y="30" text-anchor="middle"
         font-family="Consolas, monospace" font-size="18" fill="#FFFFFF">
     98731
   </text>
 
-  <!-- Texte centré dans le bloc droit (100px) -->
+  <!-- Texte centré dans le bloc droit (100px → centre = 210) -->
   <text x="210" y="30" text-anchor="middle"
         font-family="Consolas, monospace" font-size="16" fill="#ff0033">
     ENGINE
