@@ -1,0 +1,51 @@
+# CODEOWNERS — Projet 98731 Quantum Era
+# Format : chemin  @owner1 @owner2 ...
+
+# 👑 Propriétaire global du projet
+*                       @teremuhamblin
+
+# 🧠 Architecture & vision globale
+/docs/architecture/      @teremuhamblin
+/ARCHITECTURE.md         @teremuhamblin
+
+# 🟦 ENGINE — Moteur interne
+/engine/                 @teremuhamblin @engine-maintainers
+src/engine/              @teremuhamblin @engine-maintainers
+
+# 🟪 CORE — Noyau modulaire
+/core/                   @teremuhamblin @core-maintainers
+src/core/                @teremuhamblin @core-maintainers
+
+# 🟥 OPS — Pipelines & Automatisation
+/ops/                    @teremuhamblin @ops-maintainers
+.github/workflows/       @teremuhamblin @ops-maintainers
+/.github/                @teremuhamblin @ops-maintainers
+
+# 🎨 Design, UI, Badges & Identité visuelle
+/assets/badges/          @teremuhamblin @LeaVerou @mrdoob @zsviczian @serenakeyitan
+/assets/                 @teremuhamblin @LeaVerou @mrdoob @zsviczian @serenakeyitan
+/design/                 @teremuhamblin @LeaVerou @mrdoob @zsviczian @serenakeyitan
+
+# 📚 Documentation & communication
+/docs/                   @teremuhamblin @docs-maintainers
+/README.md               @teremuhamblin @docs-maintainers
+/ROADMAP.md              @teremuhamblin @docs-maintainers
+/CHANGELOG.md            @teremuhamblin @docs-maintainers
+/CONTRIBUTING.md         @teremuhamblin @docs-maintainers
+/SUPPORT.md              @teremuhamblin @docs-maintainers
+
+# 🛡️ Sécurité
+/SECURITY.md             @teremuhamblin @security-team
+/SECURITY-THREATS.md     @teremuhamblin @security-team
+
+# 🧪 Tests
+/tests/                  @teremuhamblin @qa-team
+/test/                   @teremuhamblin @qa-team
+
+# 🧰 Devcontainer & tooling
+/.devcontainer/          @teremuhamblin @ops-maintainers
+/.vscode/                @teremuhamblin @ops-maintainers
+
+# 🧬 Expérimental / labs
+/experiments/            @teremuhamblin
+/labs/                   @teremuhamblin
