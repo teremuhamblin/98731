@@ -28,13 +28,16 @@
 
 ### 🛡️ Cyber Badges
 > Animated SVG
-<p align="center">
-<img src="assets/badge/cyber.svg" height="28" alt="Cyber">
-</p>
-<!-- Badge 1 : AETHER‑CORE -->
 
+<!-- Badge 1 : AETHER‑CORE -->
+<p align="center">
+<img src="assets/cyber.svg" height="28" alt="Cyber">
+</p>
+
+```md
 > Badges SVG animés (SMIL + CSS inline), style **cyber‑physique**, ambiance **RedHat hacker**, optimisés pour GitHub.  
-> Je peux t’en générer autant que tu veux.
+- Je peux t’en générer autant que tu veux.
+```
 
 ---
 
