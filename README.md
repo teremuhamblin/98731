@@ -1,7 +1,8 @@
 ###### README.md >> markdown 
 # 🟦 9 8 7 3 1
-- — Version Quantum Era
-> Profil GitHub
+<p align="center">
+**Version Quantum Era**
+</p>
 
 <p align="center">
   <img src="assets/98731.svg" height="220" alt="Quantum Era Badge">
