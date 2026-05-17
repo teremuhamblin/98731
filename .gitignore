@@ -1,0 +1,112 @@
+# ============================
+#   .gitignore — Projet 98731
+# ============================
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environnements
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Node
+node_modules/
+dist/
+build/
+.cache/
+.next/
+out/
+.npm/
+.pnpm-store/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+.env/
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Java / JVM
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Go
+bin/
+pkg/
+*.exe
+*.test
+
+# Rust
+/target/
+**/*.rs.bk
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Docker
+docker-compose.override.yml
+.env.docker
+
+# Kubernetes
+.kube/
+.kustomize/
+
+# Secrets
+secrets.yml
+credentials.yml.enc
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+
+# Coverage
+coverage/
+lcov-report/
+
+# Assets générés
+/assets/generated/
+assets/tmp/
+public/build/
+
+# JetBrains
+.idea/
+*.iml
+out/
+
+# VS
+.vs/
+*.user
+*.suo
+
+# Divers
+*.swp
+*~
